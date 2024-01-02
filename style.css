@@ -174,3 +174,17 @@
     align-items:center;
     justify-content:center;
 }
+
+@media screen and (max-width:600px)
+{
+    .card{
+        width:40%;
+    }
+}
+
+@media screen and (max-width:620px)
+{
+    .container{
+        width:100%;
+    }
+}
